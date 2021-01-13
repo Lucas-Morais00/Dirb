@@ -19,7 +19,7 @@ for line in words:
     r = requests.get(url + line)
     print(line + " " + str(r.status_code))
     if r.status_code != 404:
-        print("-------------------------------------------")
+        print("-------------------------- You found something! --------------------------")
 
 
 
