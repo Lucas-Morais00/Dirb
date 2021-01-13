@@ -1,3 +1,6 @@
+#Made by @Lucas-Morais00
+#"It's not possible". "No, it's necessary".
+
 #You need to download the .txt file and have it in the same
 #directory
 
